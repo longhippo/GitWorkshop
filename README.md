@@ -1,2 +1,2 @@
-# GitWorkshop
+# Git Workshop
 Shreyas
